@@ -13,8 +13,8 @@ I’m Senior, a technology-focused builder operating at the intersection of serv
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KibowiSenior&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=true&no-bg=true&margin-w=2)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=true&no-bg=true&row=1)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=true&no-bg=true&row=2)
 
 
 ### ✍️ Random Dev Quote
