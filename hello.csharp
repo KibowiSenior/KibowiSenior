@@ -1,0 +1,15 @@
+using System;
+using System.Windows.Forms;
+
+class App {
+  static void Main() {
+    var f = new Form();
+    var l = new Label {
+      Text = "Hello — still running, not dead.",
+      Dock = DockStyle.Fill,
+      TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+    };
+    f.Controls.Add(l);
+    Application.Run(f);
+  }
+}
