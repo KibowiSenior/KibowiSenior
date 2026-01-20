@@ -16,6 +16,8 @@ I’m Senior, a technology-focused builder operating at the intersection of serv
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=true&no-bg=true&row=1)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=default_repocard&no-frame=true&no-bg=true&row=2)
 
+<img src="https://github-profile-trophy.vercel.app/?username=KibowiSenior&theme=flat&no-frame=true&no-bg=true" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
